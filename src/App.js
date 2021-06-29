@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          React project with Docker :D
+          React project with Docker (new feature)
         </p>
         <a
           className="App-link"
